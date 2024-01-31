@@ -14,7 +14,7 @@
 
 ### About Me 🚀
 
-🎓 I’m an Inquisitive guy learning and curious about the computer world & a junior pursuing my Bachelors in MNNIT Allahabad. </br>
+🎓 I’m an Inquisitive guy learning and curious about the computer world & a final year student pursuing my Bachelors in MNNIT Allahabad. </br>
 👨‍💻  I am passionate about Web Development, Designing , Algorithms & I enjoy learning new things. </br>
 
 ### Tech i am familiar with 👨‍💻
